@@ -1,0 +1,8 @@
+{
+  "name": "verdant-grow-diary",
+  "version": "0.1.0",
+  "description": "Assistant for implementing tasks strictly according to the Verdant Grow Diary workflow.",
+  "author": {
+    "name": "Verdant Assistant"
+  }
+}
